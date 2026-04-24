@@ -7,8 +7,7 @@
   ],
   "pi": {
     "extensions": [
-      "./extension-settings/src/index.ts",
-      "../pi-window-title/extensions/index.ts"
+      "./extension-settings/src/index.ts"
     ]
   },
   "dependencies": {},
