@@ -1,0 +1,18 @@
+{
+  "name": "pi-agent-dashboard-extensions",
+  "version": "0.1.0",
+  "description": "Helper extensions for the PI Agent Dashboard",
+  "keywords": [
+    "pi-package"
+  ],
+  "pi": {
+    "extensions": [
+      "./extension-settings/src/index.ts",
+      "../pi-window-title/extensions/index.ts"
+    ]
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "@mariozechner/pi-coding-agent": "*"
+  }
+}

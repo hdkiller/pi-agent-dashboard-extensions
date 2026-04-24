@@ -1,0 +1,12 @@
+{
+  "name": "@blackbelt-technology/pi-agent-dashboard-extension-settings",
+  "version": "0.1.0",
+  "description": "Expose and manage extension settings in the pi dashboard",
+  "type": "module",
+  "dependencies": {
+    "@blackbelt-technology/pi-dashboard-shared": "*"
+  },
+  "peerDependencies": {
+    "@mariozechner/pi-coding-agent": "*"
+  }
+}

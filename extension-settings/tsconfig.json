@@ -1,0 +1,8 @@
+{
+  "extends": "../../pi-agent-dashboard/tsconfig.base.json",
+  "compilerOptions": {
+    "outDir": "../dist/extension-settings",
+    "rootDir": "src"
+  },
+  "include": ["src/**/*"]
+}
